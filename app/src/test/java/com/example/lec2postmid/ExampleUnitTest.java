@@ -1,4 +1,4 @@
-package com.example.project1;
+package com.example.lec2postmid;
 
 import org.junit.Test;
 
