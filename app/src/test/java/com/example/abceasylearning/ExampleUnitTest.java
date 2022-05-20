@@ -1,4 +1,4 @@
-package com.example.lec2postmid;
+package com.example.abceasylearning;
 
 import org.junit.Test;
 
